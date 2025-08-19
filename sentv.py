@@ -6,7 +6,7 @@ m3u_urls = [
     "https://raw.githubusercontent.com/koprulu5564/trgoals/refs/heads/main/trgoals.m3u",
     "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/refs/heads/master/NeonSpor/NeonSpor.m3u8",
     "https://raw.githubusercontent.com/nigelhayes11/duke/refs/heads/main/mokito.m3u",
-    "https://raw.githubusercontent.com/nigelhayes11/temp/refs/heads/main/MAN%20NORMAL%20TV%202025.m3u",
+
 
 # Çıktı dosyası adı
 output_file = "sentv.m3u"
