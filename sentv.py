@@ -5,7 +5,7 @@ m3u_urls = [
     "https://raw.githubusercontent.com/koprulu5564/kablo-tv-api/refs/heads/main/kablo_tv.m3u",
     "https://raw.githubusercontent.com/koprulu5564/trgoals/refs/heads/main/trgoals.m3u",
     "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/refs/heads/master/NeonSpor/NeonSpor.m3u8",
-    https://raw.githubusercontent.com/nigelhayes11/temp/refs/heads/main/MAN%20NORMAL%20TV%202025.m3u
+    https://raw.githubusercontent.com/nigelhayes11/temp/refs/heads/main/MAN NORMAL TV 2025.m3u
 ]
 
 # Çıktı dosyası adı
