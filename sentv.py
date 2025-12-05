@@ -5,6 +5,8 @@ m3u_urls = [
 
     "https://raw.githubusercontent.com/nigelhayes11/duke/refs/heads/main/mokito.m3u",
     "https://raw.githubusercontent.com/troy8865/Dnsm/838a89f4b36dd0b60c1c3e754e897031b3604268/stream/all_channels.m3u"
+    "https://raw.githubusercontent.com/mehmetey03/METV2/refs/heads/main/atom.m3u"
+    "https://raw.githubusercontent.com/mehmetey03/METV2/refs/heads/main/5.m3u" 
 ]
 
 # Çıktı dosyası adı
